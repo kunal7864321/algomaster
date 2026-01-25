@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:is(.dark *));
+
+body {
+  @apply bg-[#050505] text-slate-100 transition-colors duration-300 antialiased;
+  margin: 0;
+}
