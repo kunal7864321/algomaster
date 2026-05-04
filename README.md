@@ -52,6 +52,3 @@ Because this project uses browser-native execution environments, no backend is r
 ## 🧠 Educational Approach
 
 AlgoMaster abandons the "auto-play" mentality of standard visualizers. By forcing the user to manually click "Next Step" or "Previous Step", the platform ensures you are actively tracing the algorithm's state machine, tracking pointers, and watching swaps in real time without getting lost.
-
----
-*Built for developers, by developers.*
